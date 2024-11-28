@@ -1,0 +1,3 @@
+# Laboratório: CSS
+
+Este projeto é uma atualização do projeto anterior, agora incorporando conceitos iniciais de estilização utilizando CSS, conforme abordado no Capítulo 3 do nano curso "CSS - Conceitos e Formatações Iniciais". O foco principal dessa atualização é aplicar estilos básicos para melhorar a apresentação e a experiência visual do conteúdo HTML, utilizando propriedades como fontes, cores, tamanhos de texto e efeitos em imagens e links.
