@@ -1,0 +1,3 @@
+# Laboratório: Conceitos e Tags Iniciais
+
+Este projeto tem como objetivo apresentar e descrever algumas das tecnologias mais inovadoras e impactantes da atualidade, utilizando as tags iniciais do HTML que foram abordadas no Capítulo 2 do nano curso, "HTML - Conceitos e Tags Iniciais". Através deste conteúdo, exploraremos três áreas tecnológicas de destaque, fornecendo uma introdução às suas vantagens e aplicações, além de links para mais informações sobre cada uma delas.
