@@ -1,0 +1,52 @@
+    @import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@300&display=swap');
+
+    body{
+        font-family: 'Catamaran', serif;
+    }
+
+    div{
+        width: 90%;
+        height: 500px;
+        margin: 10px auto;
+        padding: 30px 0;
+        box-sizing: border-box;
+        background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0,0,0,.2)), 
+        url(../img/pexels-burak-the-weekender-733758.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: 50%;
+        border-radius: 20px;
+        
+    }
+
+    div h1{
+        color: #ffffff;
+        margin: 50px 30px;
+        font-size: 45px;
+        
+    }
+
+    div p{
+        color: #ffffff;
+        margin: 30px 30px 60px;
+        width: 40%;
+        font-size: 18px;
+        font-weight: 700;
+    }
+
+    div a{
+        margin: 30px;
+        padding: 8px 30px;
+        text-decoration: none;
+        background-color: #0CAFFF;
+        border: 2px solid #0CAFFF;
+        color: white;
+        font-weight: 900;
+        border-radius: 7px;
+    }
+
+    div a:hover{
+        background-color: transparent;
+        color: #0CAFFF;
+    }
+
