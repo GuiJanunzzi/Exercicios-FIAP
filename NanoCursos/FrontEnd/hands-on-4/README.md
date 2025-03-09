@@ -1,0 +1,3 @@
+Laboratório: Div e Box Model
+
+Este projeto consiste na criação de um card de apresentação, utilizando conceitos de organização e estilização com o Box Model em CSS, conforme abordado no Capítulo 4 do nano curso "Organizando e posicionando seu HTML". O objetivo é demonstrar a aplicação dos fundamentos de layout e design responsivo, explorando a manipulação de divs e a propriedade box-sizing para garantir que a estrutura da página seja bem organizada e visualmente agradável.
